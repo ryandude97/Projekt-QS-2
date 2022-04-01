@@ -52,18 +52,10 @@ The main purpose of this project is to create a website with a search engine tha
 **9.** Created a new CodePen to experiment with future feature additions [here](https://codepen.io/mheerspink75/pen/yLBOxoa).
 
 ---
-### Results:
 
-#### Project URL: [https://mheerspink75.github.io/GIPHY-API-Search/](https://mheerspink75.github.io/GIPHY-API-Search/)
+#### Project URL: https://github.com/ryandude97/Projekt-QS-2
 
 ---
-
-#### Desktop View:
-![GIPHY Search Desktop View](/images/Final_GIPHY_Search_Desktop_View.png) 
-![GIPHY Search Desktop View](/images/Final_GIPHY_Search_Desktop_View_Search_Results.png) 
-
-#### Mobile View:
-![GIPHY Search Mobile View](/images/Final_GIPHY_Search_Mobile_View.png) ![GIPHY Search Mobile View](/images/Final_GIPHY_Search_Mobile_View_Expanded.png) ![GIPHY Search Mobile View](/images/Final_GIPHY_Search_Mobile_View_Search_Results.png)
 
 ---
 
