@@ -8,7 +8,7 @@ gifForm.submit(e => {
     .done(resp => {
       showGiphs(resp.data.slice(0, 40));
     })
-    .success(console.log);
+    .fail(console.log);
 });
 
 function showGiphs(dataArray) {
