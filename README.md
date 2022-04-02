@@ -1,7 +1,5 @@
 # Project 2: Website with a Search Engine
 
----
-
 ## **Name: Ryan Stroemel
 
 ## Abstract:  
@@ -44,14 +42,11 @@ The purpose of this project is to create a website with a search engine that can
 
 #### Project URL: https://github.com/ryandude97/Projekt-QS-2
 
----
-
----
 
 #### Future Improvements:
 
 **1.** I would like to make the bootstrap wireframe to be more customized with more css code. 
 
-**2.**  Bootstrap classes are the main classes on the page. 
+**2.**  Bootstrap classes are the main classes on the page. I would like to expand the usage of standard css classes. 
 
-**3.**  In addition to improving the future styling and responsive elements on this site, I will be working on refining my JavaScript and jQuery skills for creating web apps.
+**3.**   I want to be working on my JavaScript and jQuery skills for creating web apps.
