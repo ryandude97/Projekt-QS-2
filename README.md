@@ -5,7 +5,7 @@
 ## **Name: Ryan Stroemel
 
 ## Abstract:  
-The main purpose of this project is to create a website with a search engine that can loop through GIPHY's API and display image results on the page. The full project requirements can be found [here](https://sites.google.com/view/reference-page/project-2). 
+The purpose of this project is to create a website with a search engine that can loop through GIPHY's API and display image results on the page. 
 
 
 ## Workflow Requirements
@@ -21,14 +21,7 @@ The main purpose of this project is to create a website with a search engine tha
 ### Wireframes:
 
 **1.** First, I created a basic layout of the web and mobile interface design on CodePen.  
-*The CodePen Reference Page can be found [here](https://codepen.io/mheerspink75/pen/wVYNmw?editors=1010).* 
-
-#### Desktop View:
-![GIPHY Search Desktop View](/images/GIPHY_Search_Desktop_View.png) 
-
-#### Mobile View:
-![GIPHY Search Mobile View](/images/GIPHY_Search_Mobile_View.png)
-
+*The CodePen Reference Page can be found [here](https://codepen.io/ryandude97/pen/zYpEwqO).* 
 ---
 
 ### Development Phase:
