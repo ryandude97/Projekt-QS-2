@@ -1,6 +1,6 @@
 const gifForm = $("#gif-form");
 
-gifForm.(e => {
+gifForm.submit(e => {
   e.preventDefault();
   const searchTerm = $(".search").val();
   const url = `https://api.giphy.com/v1/gifs/search?&q=${searchTerm}&limit=80&api_key=L0e6RjCIWQ6LTAuDdLdf3bM3EnjP8Qww`;
